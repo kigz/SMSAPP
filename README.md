@@ -1,2 +1,3 @@
 # SMSAPP
-SMSAPP for sending sms, verify number though sms using twilio api
+SMSAPP for sending sms and verifying number using shotcodes through sms using twilio api
+
